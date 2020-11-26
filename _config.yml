@@ -1,7 +1,8 @@
 # Welcome to Jekyll!
 #
-
-theme: jekyll-text-theme
-
-
+# theme: jekyll-text-theme
 ## => Site Settings
+text_skin: ocean
+highlight_theme: tomorrow-night-eighties
+
+
